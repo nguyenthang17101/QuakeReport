@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                   xmlns:app="http://schemas.android.com/apk/res-auto"
+                                                   xmlns:tools="http://schemas.android.com/tools"
+                                                   android:orientation="vertical"
+                                                   android:layout_width="match_parent"
+                                                   android:background="@color/background_bookingaccept_or_bookingcacel"
+                                                   android:layout_height="match_parent">
+    <de.hdodenhof.circleimageview.CircleImageView android:layout_width="200dp" android:layout_height="200dp"
+                                                  android:src="@drawable/bookingaccept"
+                                                  app:layout_constraintTop_toTopOf="parent"
+                                                  android:layout_marginTop="70dp"
+                                                  app:layout_constraintStart_toStartOf="parent"
+                                                  app:layout_constraintHorizontal_bias="0.497"
+                                                  app:layout_constraintEnd_toEndOf="parent"
+                                                  app:civ_border_color="@color/background_navgationView_buttonaccept_civ_buttoncalcel"
+                                                  app:civ_border_width="15dp"
+                                                  android:layout_marginBottom="40dp"
+                                                  app:layout_constraintBottom_toTopOf="@+id/textView9"
+                                                  app:layout_constraintVertical_bias="0.0"
+                                                  android:id="@+id/circleImageView3"/>
+    <TextView
+            android:text="Cô  Giáo  Thảo"
+            android:layout_width="398dp"
+            android:textAllCaps="true"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:textColor="@color/white100"
+            android:layout_height="42dp"
+            android:id="@+id/textView9"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginBottom="8dp" app:layout_constraintBottom_toTopOf="@+id/textView10"
+            app:layout_constraintTop_toBottomOf="@+id/circleImageView3"/>
+    <TextView
+            android:text="@string/sdt_bookingaccept"
+            android:textColor="@color/white100"
+            android:textSize="24dp"
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView10" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintHorizontal_bias="0.498" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginBottom="120dp" app:layout_constraintBottom_toTopOf="@+id/textView11"
+            android:layout_marginTop="8dp" app:layout_constraintTop_toBottomOf="@+id/textView9"/>
+    <TextView
+            android:textColor="@color/white100"
+            android:text="Đã nhận yêu cầu của bạn"
+            android:textSize="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView11" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintHorizontal_bias="0.5" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginBottom="80dp" app:layout_constraintBottom_toTopOf="@+id/button2"/>
+    <Button
+            android:text="Đồng ý"
+            android:textColor="@color/white100"
+            android:background="@color/background_navgationView_buttonaccept_civ_buttoncalcel"
+            android:layout_width="380dp"
+            android:textSize="24dp"
+            android:textAllCaps="false"
+            android:layout_height="60dp"
+            android:id="@+id/button2" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintHorizontal_bias="0.5" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginBottom="16dp" app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginStart="8dp" android:layout_marginEnd="8dp"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

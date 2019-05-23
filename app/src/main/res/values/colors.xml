@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background_15_buttoncancel_orange">#D64425</color>
+    <color name="background_man">#363A45</color>
+    <color name="background_texcolor_cancel">#404040</color>
+    <color name="white100">#FFFFFF</color>
+    <color name="white">#FAFAFA</color>
+    <color name="background_vertical">#CED3D7</color>
+    <color name="background_rouned_view">#A0A0A0</color>
+    <color name="background_textAccept">#39C260</color>
+    <color name="background_VND">#2EB860</color>
+    <color name="background_crown">#58C5CA</color>
+    <color name="background_promo">#F8C947</color>
+    <color name="background_rouned">#6e82e5</color>
+    <color name="background_navHeader">#3967bd</color>
+    <color name="background_tick_history">#3669dc</color>
+    <color name="background_bookingaccept_or_bookingcacel">#315db3</color>
+    <color name="background_navgationView_buttonaccept_civ_buttoncalcel">#203868</color>
+
+</resources>

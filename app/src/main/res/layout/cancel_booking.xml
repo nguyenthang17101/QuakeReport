@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                   xmlns:app="http://schemas.android.com/apk/res-auto"
+                                                   xmlns:tools="http://schemas.android.com/tools"
+                                                   android:orientation="vertical"
+                                                   android:layout_width="match_parent"
+                                                   android:background="@color/background_bookingaccept_or_bookingcacel"
+                                                   android:layout_height="match_parent">
+
+    <ImageView
+            android:layout_width="411dp"
+            android:layout_height="200dp" app:srcCompat="@drawable/cacel_booking"
+            android:id="@+id/imageView"
+            android:layout_marginBottom="30dp" app:layout_constraintBottom_toTopOf="@+id/textView18"
+            app:layout_constraintTop_toTopOf="parent" android:layout_marginTop="100dp"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp" android:layout_marginStart="8dp"/>
+    <TextView
+            android:gravity="center"
+            android:textColor="@color/white100"
+            android:text="Xin Lỗi!"
+            android:textSize="24dp"
+            android:textAllCaps="true"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView18" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintHorizontal_bias="0.5" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginBottom="8dp" app:layout_constraintBottom_toTopOf="@+id/textView19"/>
+    <TextView
+            android:gravity="center"
+            android:textColor="@color/white100"
+            android:textSize="20dp"
+            android:text="Chưa tìm được thợ sửa chữa cho bạn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView19" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            tools:layout_editor_absoluteY="422dp" tools:ignore="MissingConstraints"/>
+    <LinearLayout
+            android:layout_width="370dp"
+            android:layout_height="wrap_content"
+            tools:visibility="visible"
+            android:gravity="fill_vertical|end" android:orientation="vertical" android:background="@color/white100"
+            android:id="@+id/linearLayout"
+            android:layout_marginTop="24dp"
+            app:layout_constraintTop_toBottomOf="@+id/textView19"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintHorizontal_bias="0.5" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginStart="8dp" android:layout_marginEnd="8dp" android:layout_marginBottom="44dp"
+            app:layout_constraintBottom_toTopOf="@+id/button5">
+        <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp" app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintHorizontal_bias="0.5" app:layout_constraintEnd_toEndOf="parent">
+
+            <TextView
+                    android:background="@drawable/background_rouned"
+                    android:layout_width="10dp"
+                    android:layout_height="10dp" android:id="@+id/textView13"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toStartOf="@+id/textView14"
+                    android:layout_marginEnd="8dp" app:layout_constraintStart_toStartOf="parent"
+                    android:layout_marginStart="8dp"/>
+            <TextView
+                    android:text="Ngã Ba Đường Cầu Giấy - Ngõ 299 Cầu Giấy"
+                    android:singleLine="true"
+                    android:ellipsize="marquee"
+                    android:marqueeRepeatLimit="marquee_forever"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:scrollHorizontally="true"
+                    android:textColor="@color/background_texcolor_cancel"
+                    android:layout_width="0dp"
+                    android:id="@+id/textView14"
+                    android:gravity="center"
+                    app:layout_constraintTop_toTopOf="parent" app:layout_constraintBottom_toBottomOf="parent"
+                    android:layout_height="wrap_content" android:textSize="18sp"
+                    app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="30dp"
+                    app:layout_constraintStart_toEndOf="@+id/textView13" android:layout_marginStart="8dp"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="center" app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintHorizontal_bias="0.5" app:layout_constraintEnd_toEndOf="parent">
+
+            <TextView
+                    android:text="Sửa Camera"
+                    android:textColor="@color/background_texcolor_cancel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" android:id="@+id/textView16" android:textSize="18sp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintHorizontal_bias="0.044" app:layout_constraintEnd_toStartOf="@+id/imageView4"
+                    app:layout_constraintTop_toTopOf="parent" app:layout_constraintBottom_toBottomOf="parent"
+                    android:layout_marginStart="8dp"/>
+            <TextView
+                    android:background="@drawable/background_vertical"
+                    android:layout_width="1dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView12" app:layout_constraintEnd_toStartOf="@+id/imageView4"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintVertical_bias="0.0" android:layout_marginEnd="16dp"
+                    app:layout_constraintStart_toEndOf="@+id/textView16" android:layout_marginStart="165dp"
+                    app:layout_constraintHorizontal_bias="0.703"/>
+            <ImageView
+                    android:layout_width="30dp"
+                    android:layout_height="20dp" app:srcCompat="@mipmap/ic_bookingmoney"
+                    android:id="@+id/imageView4"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintVertical_bias="0.4" app:layout_constraintEnd_toStartOf="@+id/textView17"
+            />
+            <TextView
+                    android:textColor="@color/background_texcolor_cancel"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView17" android:text="Tiền Mặt"
+                    android:textSize="18sp"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent"
+                    android:layout_marginEnd="8dp"/>
+            <TextView
+                    android:background="@drawable/background_vertical"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView123" app:layout_constraintEnd_toStartOf="@+id/imageView4"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintVertical_bias="0.6" android:layout_marginEnd="8dp"
+                    app:layout_constraintStart_toEndOf="@+id/textView16" android:layout_marginStart="165dp"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+    <Button
+            android:background="@color/background_navgationView_buttonaccept_civ_buttoncalcel"
+            android:textColor="@color/white100"
+            android:text="Huỷ Đặt Dịch Vụ"
+            android:layout_width="370dp"
+            android:layout_height="60dp"
+            android:id="@+id/button4" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintHorizontal_bias="0.5" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="16dp" android:layout_marginStart="16dp" android:layout_marginBottom="8dp"
+            app:layout_constraintBottom_toBottomOf="parent"/>
+    <Button
+            android:background="@color/background_15_buttoncancel_orange"
+            android:text="Tiếp tục đặt lịch và quay lại mà hình chính"
+            android:textColor="@color/white100"
+            android:layout_width="370dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/button5" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginStart="16dp" android:layout_marginEnd="16dp" android:layout_marginBottom="8dp"
+            app:layout_constraintBottom_toTopOf="@+id/button4"
+    />
+</androidx.constraintlayout.widget.ConstraintLayout>

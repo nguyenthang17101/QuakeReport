@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Hose99</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Lịch Sử</string>
+    <string name="menu_gallery">Thông Báo</string>
+    <string name="menu_slideshow">Trợ Giúp</string>
+    <string name="menu_tools">SOS</string>
+    <string name="menu_about">Giới Thiệu Về APP</string>
+    <string name="menu_send">Send</string>
+    <string name="name">Hà</string>
+    <string name="score">Điểm: 1067899</string>
+    <string name="name_bookingaccept">Cô Giáo Thảo</string>
+    <string name="text_bbookingaccept">Cô Giáo Thảo</string>
+    <string name="sdt_bookingaccept">0969696969</string>
+    <string name="accept_bookingaccept">Đã hoàn thành dịch vụ</string>
+    <string name="vnd_bookingaccept">500.000 VNĐ</string>
+    <string name="agree_bookingaccept">Đồng ý</string>
+    <string name="booking_texmoney">Tiền Mặt</string>
+    <string name="address">62 Trần Bình</string>
+    <string name="promo">Promo</string>
+    <string name="sua">Sửa Camera</string>
+    <string name="ma">Mã 69</string>
+    <string name="name_name">Đỗ Thị Phương Thảo</string>
+    <string name="VND">VNĐ 67.000 VNĐ</string>
+    <string name="phone">0988999666</string>
+    <string name="name_xname">Đỗ Thị Phương Thảo</string>
+    <style name="MenuItems" parent="AppTheme">
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">sans-serif-light7</item>
+    </style>
+</resources>
