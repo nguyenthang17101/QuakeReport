@@ -1,7 +1,7 @@
-#Tue May 21 16:43:57 ICT 2019
-base.0=/Users/Thang/Desktop/Hose99/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+#Wed May 22 08:40:33 ICT 2019
+base.0=/Users/Thang/Downloads/QuakeReport/app/build/intermediates/dex/debug/mergeExtDexDebug/out
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=/Users/Thang/Desktop/Hose99/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+base.1=/Users/Thang/Downloads/QuakeReport/app/build/intermediates/dex/debug/mergeProjectDexDebug/out

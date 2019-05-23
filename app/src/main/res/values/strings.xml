@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">qr</string>
+    <string name="magnitude">6.0</string>
+    <string name="driection">64 Km N OF</string>
+    <string name="location">Hà Nội</string>
+    <string name="date">April 10, 2019</string>
+    <string name="time">10:39 AM</string>
+    <string name="Location">Location</string>
+</resources>

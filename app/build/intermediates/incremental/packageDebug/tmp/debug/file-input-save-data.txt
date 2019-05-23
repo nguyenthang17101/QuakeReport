@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Tue May 14 16:21:26 ICT 2019
-1.base=/Users/Thang/Desktop/Hose99/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+#Tue May 21 08:34:32 ICT 2019
+1.base=/Users/Thang/Downloads/QuakeReport/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
 1.set=DEX
 0.path=classes.dex
 0.set=DEX
-0.base=/Users/Thang/Desktop/Hose99/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+0.base=/Users/Thang/Downloads/QuakeReport/app/build/intermediates/dex/debug/mergeExtDexDebug/out
 1.path=classes.dex

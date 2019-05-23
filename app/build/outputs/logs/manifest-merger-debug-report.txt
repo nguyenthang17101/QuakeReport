@@ -1,27 +1,18 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:2:1-35:12
-MERGED from [com.google.android.material:material:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/e8ccaac205278ef80c1ccff9a2a81e67/AndroidManifest.xml:17:1-24:12
+ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:2:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Thang/.gradle/caches/transforms-2/files-2.1/3e547148625c6367a8fee97f028c662b/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/bd37801f4e20c3a91f9d11f4342463a5/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f0da7c6dfdb5426c903bc10c382e3cc9/AndroidManifest.xml:17:1-38:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/c405f4e61f2edc479621b676816befbe/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/3a568d1b68e4c52c37e475b68d2c5f76/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/1648d0697f7fe079840e7a5ee5532487/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/ba32b091b352240e1dfa390872eb8de2/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Thang/.gradle/caches/transforms-2/files-2.1/8e3fcd3c3f83d60b6cd6af4481b5007f/AndroidManifest.xml:2:1-11:12
-MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/1d3cc5a921bd83b0a4dea8a9ab8aaa41/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/5b3eeaee04174eb6b40c0003517072af/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/d021d738835ecd7468cfbf73c98b7bca/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f80115aed901560f90dc93019daac42b/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/183c88ebdc2df3cbba5c55dd6c16bcaf/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f0897eda42dd85c95076a8d08ead0305/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/a8839ff72a2c465696d4f40d082b7329/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/a10c617f5d2b1827ea441af51b2e68cd/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f4aaf302c0b3ffb5c5b6cc34859b4f6f/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/de12deb22e43de8f0725632420e56e21/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/2607f7036e701ecc0f50957b0e98b82c/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/c679384a0f84c69b7ad3d850227d4b21/AndroidManifest.xml:17:1-22:12
@@ -33,7 +24,6 @@ MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Than
 MERGED from [androidx.core:core:1.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/824c85cb4ffd6422b9f309d9831c6532/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/9b63b035c38950bcc2fb3321a74aa83d/AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/5f117a9d31054c2f33bd2c4609935727/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/5623544d8f069be03cf5231744e7cd99/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/2b8ba43b6f5738b79c681c706bbd4f33/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/83464078fc328431593ddff1a9bbca83/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/fe46319f8277b0d0a0eb7c0453e7c750/AndroidManifest.xml:17:1-22:12
@@ -43,39 +33,31 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Thang/.gradle/cach
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/12d2fd20f2437e220f24d5c995ef0f3d/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/9717bc49759271dba7c8240a7be8b3df/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/82eef927f05d0a7ff53710d949ad059c/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:2:1-35:12
-INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:3:11-39
-		INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:3:11-45
+		INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:2:1-35:12
-		INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:2:1-35:12
-		INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:5:5-33:19
-MERGED from [com.google.android.material:material:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/e8ccaac205278ef80c1ccff9a2a81e67/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/e8ccaac205278ef80c1ccff9a2a81e67/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f0da7c6dfdb5426c903bc10c382e3cc9/AndroidManifest.xml:30:5-36:19
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f0da7c6dfdb5426c903bc10c382e3cc9/AndroidManifest.xml:30:5-36:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/c405f4e61f2edc479621b676816befbe/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/c405f4e61f2edc479621b676816befbe/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/3a568d1b68e4c52c37e475b68d2c5f76/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/3a568d1b68e4c52c37e475b68d2c5f76/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/1648d0697f7fe079840e7a5ee5532487/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/1648d0697f7fe079840e7a5ee5532487/AndroidManifest.xml:22:5-26:19
+ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:6:5-20:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Thang/.gradle/caches/transforms-2/files-2.1/8e3fcd3c3f83d60b6cd6af4481b5007f/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Thang/.gradle/caches/transforms-2/files-2.1/8e3fcd3c3f83d60b6cd6af4481b5007f/AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/1d3cc5a921bd83b0a4dea8a9ab8aaa41/AndroidManifest.xml:9:5-20
-MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/1d3cc5a921bd83b0a4dea8a9ab8aaa41/AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/824c85cb4ffd6422b9f309d9831c6532/AndroidManifest.xml:22:5-89
 MERGED from [androidx.core:core:1.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/824c85cb4ffd6422b9f309d9831c6532/AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/9b63b035c38950bcc2fb3321a74aa83d/AndroidManifest.xml:22:5-23:19
@@ -83,71 +65,41 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Than
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/824c85cb4ffd6422b9f309d9831c6532/AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:10:13-39
+		ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:11:13-39
 	android:label
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:8:13-45
+		ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:9:13-45
 	android:roundIcon
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:9:13-58
+		ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:10:13-58
 	android:icon
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:7:13-47
+		ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:8:13-47
 	android:allowBackup
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:6:13-39
+		ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:7:13-39
 	android:theme
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:11:13-44
-meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:12:9-14:58
-	android:value
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:14:17-56
+		ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:12:13-44
+activity#com.example.quakereportx.MainActivity
+ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:13:17-62
-activity#com.example.hose99.MainActivity
-ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:15:9-24:20
-	android:label
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:17:17-49
-	android:theme
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:18:17-60
-	android:name
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:16:17-45
+		ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:13:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:19:13-23:29
+ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:20:17-68
+ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:15:17-68
 	android:name
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:20:25-66
+		ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:22:17-76
+ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:17:17-76
 	android:name
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:22:27-74
-activity#com.example.hose99.History
-ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:25:9-28:20
-	android:parentActivityName
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:26:19-61
-	android:name
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml:25:19-42
+		ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml:17:27-74
 uses-sdk
-INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml
-INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/e8ccaac205278ef80c1ccff9a2a81e67/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/e8ccaac205278ef80c1ccff9a2a81e67/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Thang/.gradle/caches/transforms-2/files-2.1/3e547148625c6367a8fee97f028c662b/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Thang/.gradle/caches/transforms-2/files-2.1/3e547148625c6367a8fee97f028c662b/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core-ktx:1.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/bd37801f4e20c3a91f9d11f4342463a5/AndroidManifest.xml:5:5-44
 MERGED from [androidx.core:core-ktx:1.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/bd37801f4e20c3a91f9d11f4342463a5/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f0da7c6dfdb5426c903bc10c382e3cc9/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f0da7c6dfdb5426c903bc10c382e3cc9/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/c405f4e61f2edc479621b676816befbe/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/c405f4e61f2edc479621b676816befbe/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/3a568d1b68e4c52c37e475b68d2c5f76/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/3a568d1b68e4c52c37e475b68d2c5f76/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/1648d0697f7fe079840e7a5ee5532487/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/1648d0697f7fe079840e7a5ee5532487/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/ba32b091b352240e1dfa390872eb8de2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/ba32b091b352240e1dfa390872eb8de2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Thang/.gradle/caches/transforms-2/files-2.1/8e3fcd3c3f83d60b6cd6af4481b5007f/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Thang/.gradle/caches/transforms-2/files-2.1/8e3fcd3c3f83d60b6cd6af4481b5007f/AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/1d3cc5a921bd83b0a4dea8a9ab8aaa41/AndroidManifest.xml:5:5-7:41
-MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/1d3cc5a921bd83b0a4dea8a9ab8aaa41/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/5b3eeaee04174eb6b40c0003517072af/AndroidManifest.xml:20:5-44
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/5b3eeaee04174eb6b40c0003517072af/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/d021d738835ecd7468cfbf73c98b7bca/AndroidManifest.xml:20:5-44
@@ -160,10 +112,6 @@ MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Thang/.grad
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f0897eda42dd85c95076a8d08ead0305/AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/a8839ff72a2c465696d4f40d082b7329/AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/a8839ff72a2c465696d4f40d082b7329/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/a10c617f5d2b1827ea441af51b2e68cd/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/a10c617f5d2b1827ea441af51b2e68cd/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f4aaf302c0b3ffb5c5b6cc34859b4f6f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f4aaf302c0b3ffb5c5b6cc34859b4f6f/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/de12deb22e43de8f0725632420e56e21/AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/de12deb22e43de8f0725632420e56e21/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/2607f7036e701ecc0f50957b0e98b82c/AndroidManifest.xml:20:5-44
@@ -186,8 +134,6 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Than
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/9b63b035c38950bcc2fb3321a74aa83d/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/5f117a9d31054c2f33bd2c4609935727/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/5f117a9d31054c2f33bd2c4609935727/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/5623544d8f069be03cf5231744e7cd99/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/5623544d8f069be03cf5231744e7cd99/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/2b8ba43b6f5738b79c681c706bbd4f33/AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/2b8ba43b6f5738b79c681c706bbd4f33/AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/83464078fc328431593ddff1a9bbca83/AndroidManifest.xml:20:5-44
@@ -206,47 +152,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Thang/.gra
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/9717bc49759271dba7c8240a7be8b3df/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/82eef927f05d0a7ff53710d949ad059c/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/82eef927f05d0a7ff53710d949ad059c/AndroidManifest.xml:20:5-44
-INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml
-INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Thang/Desktop/Hose99/app/src/main/AndroidManifest.xml
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f0da7c6dfdb5426c903bc10c382e3cc9/AndroidManifest.xml:23:5-79
-	android:name
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f0da7c6dfdb5426c903bc10c382e3cc9/AndroidManifest.xml:23:22-76
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f0da7c6dfdb5426c903bc10c382e3cc9/AndroidManifest.xml:24:5-67
-	android:name
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f0da7c6dfdb5426c903bc10c382e3cc9/AndroidManifest.xml:24:22-64
-uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f0da7c6dfdb5426c903bc10c382e3cc9/AndroidManifest.xml:26:5-28:35
-	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f0da7c6dfdb5426c903bc10c382e3cc9/AndroidManifest.xml:27:9-41
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f0da7c6dfdb5426c903bc10c382e3cc9/AndroidManifest.xml:28:9-32
-uses-library#org.apache.http.legacy
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f0da7c6dfdb5426c903bc10c382e3cc9/AndroidManifest.xml:33:9-35:40
-	android:required
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f0da7c6dfdb5426c903bc10c382e3cc9/AndroidManifest.xml:35:13-37
-	android:name
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/Thang/.gradle/caches/transforms-2/files-2.1/f0da7c6dfdb5426c903bc10c382e3cc9/AndroidManifest.xml:34:13-50
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/c405f4e61f2edc479621b676816befbe/AndroidManifest.xml:23:9-26:75
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/c405f4e61f2edc479621b676816befbe/AndroidManifest.xml:25:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/c405f4e61f2edc479621b676816befbe/AndroidManifest.xml:26:13-72
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/c405f4e61f2edc479621b676816befbe/AndroidManifest.xml:24:13-79
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/1648d0697f7fe079840e7a5ee5532487/AndroidManifest.xml:23:9-25:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/1648d0697f7fe079840e7a5ee5532487/AndroidManifest.xml:25:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/Thang/.gradle/caches/transforms-2/files-2.1/1648d0697f7fe079840e7a5ee5532487/AndroidManifest.xml:24:13-58
+		INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Thang/Downloads/QuakeReport/app/src/main/AndroidManifest.xml
